@@ -1,4 +1,5 @@
 from selenium import webdriver
+import path_config #Nu uita sa modifici path-ul in fisierul path_config.py cu folderul proiectului tau
 import unittest
 from page.home_page import HomePage as HP
 
